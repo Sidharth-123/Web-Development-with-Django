@@ -1,0 +1,37 @@
+.art{
+   margin: auto ; 
+}
+
+h1{
+   font-family:'Permanent Marker';
+   border: 2px solid green;   
+   text-align: center;
+
+}
+
+
+td{
+    height: 200px;
+    padding: 100px;
+    border: 6px solid white;
+}
+  
+#one{
+    background: blue;
+}
+
+#two{
+    background: skyblue;
+}
+
+#three{
+    background: grey;
+}
+
+#four{
+    background: brown;
+}
+
+#five{
+    background: cyan;
+}
