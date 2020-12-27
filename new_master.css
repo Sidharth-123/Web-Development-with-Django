@@ -1,0 +1,19 @@
+/* CSS Styling Sheet
+tag{
+    properties: */
+
+h1{
+    color: red;
+}
+
+p{
+    color: purple;
+}
+
+a{
+    color: brown;
+}
+
+ol{
+    color: rgb(4, 28, 10)
+}
