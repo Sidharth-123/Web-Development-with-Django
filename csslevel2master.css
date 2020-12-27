@@ -1,0 +1,23 @@
+h1{
+    font-family: Arial;
+    text-align: center;
+    
+}
+
+body{
+    font-family: monospace;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#Newpara{
+    font-size: 1.0em;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'AlexBrushRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+
